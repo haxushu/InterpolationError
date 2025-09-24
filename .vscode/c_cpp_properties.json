@@ -1,0 +1,19 @@
+{
+    "configurations": [
+        {
+            "name": "linux-gcc-x64",
+            "includePath": [
+                "${workspaceFolder}/**",
+                "/home/xushu/soft/libmesh/include/**",
+                "/home/xushu/Toolkits/spack/opt/spack/linux-ubuntu22.04-skylake/gcc-13.2.0/petsc-3.16.6-jnvg2skutpogydcv7ovbagmm2gh7won3/include/**",
+                "/home/xushu/codes/libmesh/operator"
+            ],
+            "defines": [],
+            "compilerPath": "/usr/bin/gcc",
+            "cStandard": "${default}",
+            "cppStandard": "${default}",
+            "intelliSenseMode": "linux-gcc-x64"
+        }
+    ],
+    "version": 4
+}
